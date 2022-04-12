@@ -3,6 +3,6 @@ A Two Player Game
 
 Download the Pythonn file or use the command
 
-git clone 
+git clone https://github.com/Abhiram-003/Tic-Tac-Toe.git
 
 And then just run it.
